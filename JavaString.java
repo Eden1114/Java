@@ -1,4 +1,4 @@
-public class JavaString{
+public class JavaString {
 	public static void main(String[]  args)
 	{
 		String a = "helloworld!";
