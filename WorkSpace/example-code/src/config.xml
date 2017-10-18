@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<user>
+		<age>10</age>
+		<name>Tom</name>
+		<father>Mike</father>
+		<mother>Lucy</mother>
+	</user>
+</config>
