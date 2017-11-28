@@ -54,9 +54,9 @@ public class Example {
 		 * 有很多种类型的数据混合运算时，系统首先自动的将所有数据转换成容器最大的哪一种数据类型，再计算。
 		 * 表达式的数据类型自动提升 所有的byte型、short型和char的值将被提升到int型。
 		 */
-		float f = a+b;//结果可以是float,double类型
-		int g = a+d;//结果可以是int,long,float,double类型
-		double h = a+b*c/d%e;//结果只能为double型
+		float f = a + b;//结果可以是float,double类型
+		int g = a + d;//结果可以是int,long,float,double类型
+		double h = a + b * c / d % e;//结果只能为double型
 		
 		System.out.println(f + "," + g + "," + h);
 	
